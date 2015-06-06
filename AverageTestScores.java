@@ -2,7 +2,7 @@
 //Name: Brent Miller
 //Date: 060515
 //Project Name: Average Test Scores
-//Description: Promt the user to enter five test scores and then 
+//Description: Prompt the user to enter five test scores and then 
 //prints the average test score.
 //*****************************************************************************
 package averagetestscores;
